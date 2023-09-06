@@ -1,5 +1,5 @@
 # Weather-Detection-using-GUI
--This project aims to develop a graphical user interface (GUI) for weather detection that
+This project aims to develop a graphical user interface (GUI) for weather detection that
 will allow users to easily access and analyze weather data. The system will use real-time
 data from weather sensors and provide visual representations of weather conditions such
 as temperature, humidity, wind speed, and precipitation. The GUI will display data in an
